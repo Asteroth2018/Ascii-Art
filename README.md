@@ -11,16 +11,16 @@ Especially check the OpenSUSE ones and Arch ones cause theyre like distro specif
 
 One more thing Im actually really poor. I dont want to beg or anything but can you spare few cents in crypto? And ill make sure ill do much more ascii art in the near future.
 
-BTC    bc1qg9uvxgpwkejjt2qeefynt8n2h94l2r226ckutn
+BTC  //     bc1qg9uvxgpwkejjt2qeefynt8n2h94l2r226ckutn
 
-USDT   0x4c5B71Ea98b761aFdBF2F36a1b1Ab3e5390dF43d
+USDT  //    0x4c5B71Ea98b761aFdBF2F36a1b1Ab3e5390dF43d
 
-ETH    0x4c5B71Ea98b761aFdBF2F36a1b1Ab3e5390dF43d
+ETH  //     0x4c5B71Ea98b761aFdBF2F36a1b1Ab3e5390dF43d
 
-XRP    rMjnzPGvTRR6pNf8EuwmGN5q5K266PYLqY
+XRP  //     rMjnzPGvTRR6pNf8EuwmGN5q5K266PYLqY
 
-TRX    TYKbdce8AFLibL4em7HYMabnLUvSoMCvtY
+TRX  //     TYKbdce8AFLibL4em7HYMabnLUvSoMCvtY
 
-LTC    LeBJoJu2RhGzi8yndR1hqQNv72LmkMa1HQ
+LTC  //     LeBJoJu2RhGzi8yndR1hqQNv72LmkMa1HQ
 
 
