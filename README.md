@@ -3,6 +3,9 @@ Collection of ascii art made by me
 
 !I can actually make some ascii art for you iif you have a flat black and white picture of something it can be whatever you want. The best ones are like cartoon pictures cause its the easiest ones to make 2d ascii art from cause theyre already 2d!
 
+!The ascii art looks much better when it's in color thats why some of them have the symbols $1 $2 $3 etc. for fastfetch or ${c1} ${c2} ${c3} etc. for neofetch
+Those symbols mean the whole line of text will be colored by first color from your terminal or second or third (depends which number you pick)!
+
 
 If you see any $ signs or something like $1 or ${c1} it means the art was made for fastfetch or neofetch those $ signs mean which color should be used for that line of text.
 You can delete the signs or leave them if youre using your ascii art for fastfetch because then its gonna be more colorful instead of just one color
