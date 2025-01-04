@@ -1,8 +1,3 @@
-# Ascii-Art![Screenshot_03-sty_19-07-49_3382](https://github.com/user-attachments/assets/d5255aca-9cac-47ad-af62-81c89944f34e)
-![Screenshot_03-sty_19-10-53_13317](https://github.com/user-attachments/assets/8048155b-f393-4035-bab2-07ac7f8cdcf4)
-![Screenshot_04-sty_15-43-29_29254](https://github.com/user-attachments/assets/57b3bad3-7e1c-49dd-8287-3f869fa17caa)
-![Screenshot_03-sty_19-07-39_1854](https://github.com/user-attachments/assets/c37d95e5-295d-40db-99db-c674eee74f06)
-
 Collection of ascii art made by me
 
 !I can actually make some ascii art for you iif you have a flat black and white picture of something it can be whatever you want. The best ones are like cartoon pictures cause its the easiest ones to make 2d ascii art from cause theyre already 2d!
@@ -30,5 +25,11 @@ XRP  //     rMjnzPGvTRR6pNf8EuwmGN5q5K266PYLqY
 TRX  //     TYKbdce8AFLibL4em7HYMabnLUvSoMCvtY
 
 LTC  //     LeBJoJu2RhGzi8yndR1hqQNv72LmkMa1HQ
+
+
+# Ascii-Art![Screenshot_03-sty_19-07-49_3382](https://github.com/user-attachments/assets/d5255aca-9cac-47ad-af62-81c89944f34e)
+![Screenshot_03-sty_19-10-53_13317](https://github.com/user-attachments/assets/8048155b-f393-4035-bab2-07ac7f8cdcf4)
+![Screenshot_04-sty_15-43-29_29254](https://github.com/user-attachments/assets/57b3bad3-7e1c-49dd-8287-3f869fa17caa)
+![Screenshot_03-sty_19-07-39_1854](https://github.com/user-attachments/assets/c37d95e5-295d-40db-99db-c674eee74f06)
 
 
